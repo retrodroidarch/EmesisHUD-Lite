@@ -17,7 +17,8 @@ This release focuses on the essentials: killfeed, scoreboard, health, ammo, cros
 
 ## Credits
 Author: RetroDroidArch
-Tactical design, modular workflow, and professional standards.
+----
+Built with precision, modular clarity, and a commitment to professional polish.
 
 ## License
 License section will only be used in GameBanana.
