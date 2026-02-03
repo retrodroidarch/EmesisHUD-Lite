@@ -1,0 +1,19 @@
+EmesisHUD Lite v1.0.1
+After weeks of polishing, renaming files, fixing structures, and testing in matches, this build is stable enough to share. All core HUD .res files have been corrected and validated.
+Changes & Reworks
+- Renamed and case‑matched all HUD files (Valve’s HUD system is case‑sensitive)
+- Fixed broken panels and brace mismatches
+- Cleaned up internal block names and structures for consistency
+- Validated scoreboard, health, ammo, kill feed, and team status in live matches
+- Checked layering (zpos) and alignment across HUD elements
+- Removed silent errors caused by incorrect naming conventions
+Installation
+- Download the release package
+- Place the folder in:
+tf/custom/EmesisHUD_Lite
+- (Optional) Add -dev to your TF2 launch options for testing
+- Use hud_reloadscheme in console to refresh after edits
+Notes
+- This is a lightweight, modular HUD — focused on stability and clarity.
+- Feedback, screenshots, and bug reports are welcome.
+----------
